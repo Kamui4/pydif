@@ -1,0 +1,6 @@
+C:\Users\sergi\Desktop\sas\AAAAAAAAAAAAAAAAAAAAAAAAAAA.jpg	=	C:\Users\sergi\Desktop\sas\doggo.jpg
+C:\Users\sergi\Desktop\sas\adsdas.jpg	=	C:\Users\sergi\Desktop\sas\seal.jpg
+
+C:\Users\sergi\Desktop\sas\AAAAAAAAAAAAAAAAAAAAAAAAAAA.jpg	=	C:\Users\sergi\Desktop\sas\doggo.jpg
+C:\Users\sergi\Desktop\sas\adsdas.jpg	=	C:\Users\sergi\Desktop\sas\seal.jpg
+
