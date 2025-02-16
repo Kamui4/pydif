@@ -1,6 +1,0 @@
-build/*
-dist/*
-output/*
-*.spec
-*.txt
-test.py
